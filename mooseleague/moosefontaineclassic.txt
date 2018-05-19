@@ -151,7 +151,7 @@ teegly | 66.8
 slowly_by_slowly
 espressopatronum
 blushingscarlet
-user_ken
+user_ken | 62.5
 
 
 # EUphoria
@@ -216,11 +216,12 @@ penchepic
 runroardinosaur
 aribev24
 ultrahobbyjogger
-eabryt
+eabryt | 0.00001
 winterspite
 nutbrownhare14
 aewillia
 sairosantos
+user_ken | 62.5
 
 
 # Cascadia
